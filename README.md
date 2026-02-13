@@ -34,6 +34,8 @@ To run or build this application, you need:
 | **Storage** | **< 20 MB** (Exe size) | **150 MB+** (Installer) |
 | **Window Style** | Minimal & Borderless | Standard Window |
 
+<img width="1919" height="542" alt="image" src="https://github.com/user-attachments/assets/ed444e11-7bf4-4d1f-bd41-da532075098b" />
+
 
 ## 📥 Installation
 
